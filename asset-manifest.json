@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/instagram-landing-page/static/css/main.ce27fe72.chunk.css",
+    "main.js": "/instagram-landing-page/static/js/main.fe2f5814.chunk.js",
+    "main.js.map": "/instagram-landing-page/static/js/main.fe2f5814.chunk.js.map",
+    "runtime~main.js": "/instagram-landing-page/static/js/runtime~main.27a8657e.js",
+    "runtime~main.js.map": "/instagram-landing-page/static/js/runtime~main.27a8657e.js.map",
+    "static/js/2.3310f33a.chunk.js": "/instagram-landing-page/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/instagram-landing-page/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/instagram-landing-page/index.html",
+    "precache-manifest.62bf69a3a9446f0b64dfc059cf320334.js": "/instagram-landing-page/precache-manifest.62bf69a3a9446f0b64dfc059cf320334.js",
+    "service-worker.js": "/instagram-landing-page/service-worker.js",
+    "static/css/main.ce27fe72.chunk.css.map": "/instagram-landing-page/static/css/main.ce27fe72.chunk.css.map"
+  }
+}
